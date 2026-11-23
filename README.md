@@ -7,7 +7,7 @@
 1. Unzip the archive (password: serum)
 2. Open "Install_Xfer_Serum2"
 3. Install the components you need (VST3, AAX, Serum 2 presets, FL Studio support) — I recommend deselecting AAX.
-4. After installation, locate to folder "Xfer Records Serum v2.1.2 update" and open "Xfer Records Serum v2.1.2 update" This is the crack itself; install it.
+4. After installation, locate to folder "Xfer Records Serum v2.1.2 update" and open file "Xfer Records Serum v2.1.2 update" This is the crack itself; install it.
 5. Serum is now activated. Open FL Studio and find it under the "Manage plugins" tab. (I cannot provide instructions for locating it in other DAWs.)
 
 <img width="1491" height="916" alt="image" src="https://github.com/user-attachments/assets/9df7e95d-22cb-4856-a88a-eadd60de9c58" />
